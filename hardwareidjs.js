@@ -11,8 +11,8 @@
  *
  *  🔒 License: No Redistribution / No Reverse Engineering
  *  📜 TOS & Privacy Policy:
- *     - https://vpn.fixcraft.org/privacy-policy
- *     - https://vpn.fixcraft.org/terms-conditions
+ *     - https://www.fixcraft.org/privacy-policy
+ *     - https://www.fixcraft.org/terms-conditions
  *
  *  Licensor: FixCraft, Inc. | Additional Use Grant: None
  */
